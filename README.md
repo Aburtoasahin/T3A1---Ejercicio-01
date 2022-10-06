@@ -28,3 +28,5 @@ Salida:
 
 ##Etapa 3. diseño de la solución 
 diagrama de la clase 
+
+![https://github.com/Aburtoasahin/T3A1---Ejercicio-01/blob/main/T3A1.png]
