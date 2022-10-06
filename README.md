@@ -24,3 +24,7 @@ Salida:
 |-PROMEDIO: 80 |
 +------------------------------------------------------+
 
+
+
+##Etapa 3. diseño de la solución 
+diagrama de la clase 
